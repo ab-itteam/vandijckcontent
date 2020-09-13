@@ -1,0 +1,27 @@
+{
+  "Belgium": {
+    "Limburg": [
+      {
+        "lat": 51.2397461,
+        "long": 5.3374471,
+        "name": "Famous Belgian Beer Shop",
+        "url": "https://fbbevents.be/",
+        "address" : "Slinkerstraat 26, 3920 Lommel"
+      },
+      {
+        "lat": 51.2303375,
+        "long": 5.3081974,
+        "name": "BaZiel",
+        "url": "https://www.belevingsbar-baziel.be/",
+        "address" : "Dorp 40a, 3920 Lommel"
+      },
+      {
+        "lat": 51.2385771,
+        "long": 5.3772806,
+        "name": "Den Brugwachter",
+        "url": "https://www.denbrugwachter.be/",
+        "address" : "Luikersteenweg 283, 3920 Lommel, Belgium"
+      }
+    ]
+  }
+}
