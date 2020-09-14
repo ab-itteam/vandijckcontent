@@ -21,13 +21,6 @@
         "name": "Den Brugwachter",
         "url": "https://www.denbrugwachter.be/",
         "address" : "Luikersteenweg 283, 3920 Lommel, Belgium"
-      },
-        {
-        "lat": 51.2385771,
-        "long": 5.3772806,
-        "name": "Den Brugwachter 2",
-        "url": "https://www.denbrugwachter.be/",
-        "address" : "Luikersteenweg 283, 3920 Lommel, Belgium"
       }
     ]
   }
