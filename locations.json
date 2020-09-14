@@ -22,6 +22,14 @@
         "url": "https://www.denbrugwachter.be/",
         "address" : "Luikersteenweg 283, 3920 Lommel, Belgium"
       }
+      ,
+      {
+        "lat": 51.2385771,
+        "long": 5.3772806,
+        "name": "De rui",
+        "url": "https://www.denbrugwachter.be/",
+        "address" : "Luikersteenweg 283, 3920 Lommel, Belgium"
+      }
     ]
   }
 }
