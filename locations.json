@@ -22,6 +22,14 @@
         "url": "https://www.denbrugwachter.be/",
         "address" : "Luikersteenweg 283, 3920 Lommel, Belgium"
       }
+      ,
+      {
+        "lat": 51.253030,
+        "long": 5.333100,
+        "name": "De Elze",
+        "url": "http://www.de-elze.be/",
+        "address" : "Elzen 49, 3920 Lommel, Belgium"
+      }
     ]
   }
 }
