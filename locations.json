@@ -30,6 +30,14 @@
         "url": "http://www.de-elze.be/",
         "address" : "Elzen 49, 3920 Lommel, Belgium"
       }
+      ,
+      {
+        "lat": 51.232520,
+        "long": 5.310050,
+        "name": "Café Erasmus",
+        "url": "https://www.facebook.com/jef.erasmus",
+        "address" : "Lepelstraat 40, 3920 Lommel, Belgium"
+      }
     ]
   }
 }
