@@ -38,6 +38,14 @@
         "url": "https://www.facebook.com/jef.erasmus",
         "address" : "Lepelstraat 40, 3920 Lommel, Belgium"
       }
+      ,
+      {
+        "lat": 51.231350,
+        "long": 5.335910,
+        "name": "Bierhandel Sevens",
+        "url": "https://www.bierhandelsevens.be/",
+        "address" : "Lutlommel 42, 3920 Lommel, Belgium"
+      }
     ]
   }
 }
