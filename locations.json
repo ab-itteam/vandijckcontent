@@ -20,7 +20,7 @@
         "long": 5.3772806,
         "name": "Den Brugwachter",
         "url": "https://www.denbrugwachter.be/",
-        "address" : "Luikersteenweg 283, 3920 Lommel, Belgium"
+        "address" : "Luikersteenweg 283, 3920 Lommel"
       }
       ,
       {
@@ -28,7 +28,7 @@
         "long": 5.333100,
         "name": "De Elze",
         "url": "http://www.de-elze.be/",
-        "address" : "Elzen 49, 3920 Lommel, Belgium"
+        "address" : "Elzen 49, 3920 Lommel"
       }
       ,
       {
@@ -36,7 +36,7 @@
         "long": 5.310050,
         "name": "Café Erasmus",
         "url": "https://www.facebook.com/jef.erasmus",
-        "address" : "Lepelstraat 40, 3920 Lommel, Belgium"
+        "address" : "Lepelstraat 40, 3920 Lommel"
       }
       ,
       {
@@ -44,7 +44,7 @@
         "long": 5.335910,
         "name": "Bierhandel Sevens",
         "url": "https://www.bierhandelsevens.be/",
-        "address" : "Lutlommel 42, 3920 Lommel, Belgium"
+        "address" : "Lutlommel 42, 3920 Lommel"
       }
     ]
   }
