@@ -1,8 +1,9 @@
 {
   "Belgium": {
-    "Online" : [
+    "Online" : [{
         "name": "Beer Vikings",
-        "url": "https://beervikings.be/",
+        "url": "https://beervikings.be/"
+    }
     ]
     "Limburg": [
       {
