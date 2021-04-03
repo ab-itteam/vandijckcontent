@@ -65,6 +65,14 @@
         "name": "Toerisme Lommel",
         "url": "https://www.lommel.be/dienst/2063/toerisme-lommel/",
         "address" : "Dorp 14, 3920 Lommel"
+        }
+      ,
+      {
+        "lat": 50.994840,
+        "long": 5.338650,
+        "name": "Marlou",
+        "url": "https://www.marlou.be/",
+        "address" : "Heikensstraat 11, 3520 Zonhoven"
       }
     ]
   }
