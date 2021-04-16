@@ -5,6 +5,13 @@
         "url": "https://beervikings.be/"
     }],
     "Limburg": [
+         {
+        "lat": 51.0602513,
+        "long": 5.1659807,
+        "name": "Dranken Gijbels",
+        "url": "https://www.prikentik.be/winkels/paal-dranken-gijbels",
+        "address" : "Schoebroekstraat 63, 3583 Beringen, Belgium"
+      },
       {
         "lat": 51.2397461,
         "long": 5.3374471,
