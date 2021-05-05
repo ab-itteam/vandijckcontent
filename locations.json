@@ -81,6 +81,14 @@
         "url": "https://www.marlou.be/",
         "address" : "Heikensstraat 11, 3520 Zonhoven"
       }
+       ,
+      {
+        "lat": 51.133010,
+        "long": 5.449920,
+        "name": "Rozemarijn Dranken",
+        "url": "https://www.rozemarijn-peer.be/",
+        "address" : "Steenweg Wijchmaal 2, 3990 Peer"
+      }
     ]
   }
 }
