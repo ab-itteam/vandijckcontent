@@ -89,6 +89,22 @@
         "url": "https://www.rozemarijn-peer.be/",
         "address" : "Steenweg Wijchmaal 2, 3990 Peer"
       }
+       ,
+      {
+        "lat": 51.231339,
+        "long": 5.340010,
+        "name": "'t Kafeeke",
+        "url": "https://www.tkafeeke.be/",
+        "address" : "Lutlommel 90, 3920 Lommel"
+      }
+       ,
+      {
+        "lat": 51.125870,
+        "long": 5.256060,
+        "name": "Prik & Tik Leopoldsburg",
+        "url": "https://www.prikentikleopoldsburg.be/",
+        "address" : "Lommelsesteenweg 23, 3970 Leopoldsburg"
+      }
     ]
   }
 }
