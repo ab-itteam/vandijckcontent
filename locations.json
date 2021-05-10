@@ -105,6 +105,14 @@
         "url": "https://www.prikentikleopoldsburg.be/",
         "address" : "Lommelsesteenweg 23, 3970 Leopoldsburg"
       }
+      ,
+      {
+        "lat": 51.230450,
+        "long": 5.308870,
+        "name": "Melchior",
+        "url": "https://website-5767826193689280303230-cafe.business.site/",
+        "address" : "Dorp 35, 3920 Lommel"
+      }
     ]
   }
 }
