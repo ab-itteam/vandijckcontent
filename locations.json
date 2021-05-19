@@ -4,6 +4,15 @@
         "name": "Beer Vikings",
         "url": "https://beervikings.be/"
     }],
+    "Vlaams Brabant": [
+      {
+         "lat": 50.8780204,
+        "long": 4.7037355,
+        "name": "Belgian Beer Shop",
+        "url": "https://www.bestbeersfrombelgium.eu",
+        "address" : "Tiensestraat 31, 3000 Leuven, Belgium"
+      }
+    ]
     "Limburg": [
          {
         "lat": 51.0602513,
