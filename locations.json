@@ -122,6 +122,14 @@
         "url": "https://website-5767826193689280303230-cafe.business.site/",
         "address" : "Dorp 35, 3920 Lommel"
       }
+      ,
+      {
+        "lat": 51.231850,
+        "long": 5.305400,
+        "name": "Eetcafe D'n Timmer",
+        "url": "http://www.eetcafedntimmer.be/",
+        "address" : "Gasstraat 15, 3920 Lommel"
+      }
     ]
   }
 }
