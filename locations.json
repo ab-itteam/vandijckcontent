@@ -138,6 +138,22 @@
         "url": "https://www.deweteringshoeve.be/",
         "address" : "In de Hutten 10, 3920 Lommel"
       }
+      ,
+      {
+        "lat": 51.228080,
+        "long": 5.315640,
+        "name": "Bar-a-bass",
+        "url": "https://www.facebook.com/BaraBassCafe/",
+        "address" : "Koning Leopoldlaan 3, 3920 Lommel"
+      }
+      ,
+      {
+        "lat": 51.250900,
+        "long": 5.312130,
+        "name": "'t Wilgenhuys",
+        "url": "https://www.wilgenhuys.be/",
+        "address" : "Jacob Smitsdreef 2, 3920 Lommel"
+      }
     ]
   }
 }
