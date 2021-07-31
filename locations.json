@@ -170,6 +170,13 @@
         "url": "https://www.facebook.com/toslive/",
         "address" : "Burkel 10, 3990 Peer"
       }
+      ,
+      {
+        "lat": 51.229400,
+        "long": 5.312790,
+        "name": "Café René",
+        "address" : "Kerkstraat 53, 3920 Lommel"
+      }
     ]
   }
 }
