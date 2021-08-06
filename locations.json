@@ -177,6 +177,14 @@
         "name": "Café René",
         "address" : "Kerkstraat 53, 3920 Lommel"
       }
+      ,
+      {
+        "lat": 51.228210,
+        "long": 5.282350,
+        "name": "'t Heeske",
+        "url": "https://menucards.cc/THeeskeVzw",
+        "address" : "Jan Frans Willemsstraat 79, 3920 Lommel"
+      }
     ]
   }
 }
