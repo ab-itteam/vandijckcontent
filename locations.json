@@ -185,6 +185,14 @@
         "url": "https://menucards.cc/THeeskeVzw",
         "address" : "Jan Frans Willemsstraat 79, 3920 Lommel"
       }
+      ,
+      {
+        "lat": 51.231110,
+        "long": 5.319930,
+        "name": "Prik & Tik Lommel",
+        "url": "https://www.prikentik.be/winkels/lommel-prik-tik-lommel",
+        "address" : "Kloosterstraat 71, 3920 Lommel"
+      }
     ]
   }
 }
