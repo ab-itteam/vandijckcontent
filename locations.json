@@ -1,5 +1,12 @@
 {
   "Belgium": {
+     "Antwerpen" : [{
+         "lat": 51.1949133,
+        "long": 5.213592,
+        "name": "Cafe De Kiezel",
+        "url": "https://www.cafedekiezel.be/",
+        "address" : "Sint-Jozefslaan 45, 2400 Mol"
+    }],
     "Online" : [{
         "name": "Beer Vikings",
         "url": "https://beervikings.be/"
