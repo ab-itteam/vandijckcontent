@@ -200,6 +200,14 @@
         "url": "https://www.prikentik.be/winkels/lommel-prik-tik-lommel",
         "address" : "Kloosterstraat 71, 3920 Lommel"
       }
+      ,
+      {
+        "lat": 51.209960,
+        "long": 5.420500,
+        "name": "Bar DeLuux",
+        "url": "https://www.bardeluux.be/",
+        "address" : "Dorpsstraat 178, 3900 Overpelt"
+      }
     ]
   }
 }
