@@ -208,6 +208,14 @@
         "url": "https://www.bardeluux.be/",
         "address" : "Dorpsstraat 178, 3900 Overpelt"
       }
+      ,
+      {
+        "lat": 51.082200,
+        "long": 5.197590,
+        "name": "Dranken Vertessen",
+        "url": "http://www.dranken-vertessen.be/",
+        "address" : "Zuidstraat 198, 3581 Beverlo"
+      }
     ]
   }
 }
