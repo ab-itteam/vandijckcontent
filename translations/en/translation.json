@@ -64,6 +64,13 @@
 	"ourBeerSlijkvisser4_4": "Colour: Blond",
 	"ourBeerSlijkvisserRemark_4": "This is a seasonal beer and will only be available once in a year in the springtime.",
 	
+	"ourBeerSlijkvisser1_5" :  "In 2021 we released 4 new limited edition barrel aged beers:",
+     	"ourBeerSlijkvisser2_5" :  "*Blackout Single Malt BA Donker: 13,1% and 9 months aged on Single Malt barrels of brewery Het Anker. The result is a dark beer with a light sour taste and with fragrances of wood and vanilla. ",
+      	"ourBeerSlijkvisser3_5" :  "*Blackout Single Malt BA Blond: 13,6% and 11 months aged on Single Malt barrels of brewery Het Anker. The result is a light coloured beer with a light sour taste and with fragrances of wood and vanilla.",
+      	"ourBeerSlijkvisser4_5" :  "*Blackout Bourbon BA Donker: 13,5% and 9 months aged on Bourbon barrels of brouwerij Het Anker. The result is a dark beer with a smooth taste of bourbon, vanilla, and caramel. ",
+      	"ourBeerSlijkvisser5_5" :  "*Blackout Bourbon BA Blond: 15,3% and 11 months aged on Bourbon barrels of brouwerij Het Anker. The result is a light coloured beer with a smooth taste of bourbon, vanilla, and caramel.",
+      	"ourBeerSlijkvisserRemark_5" :  "This is a Limited Edition",
+	
 	"ourBeerWhere": "Where to drink",
 	"ourStoryHero1": "The story",
 	"ourStoryHero2": "where it all began",
