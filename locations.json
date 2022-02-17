@@ -6,7 +6,14 @@
         "name": "Cafe De Kiezel",
         "url": "https://www.cafedekiezel.be/",
         "address" : "Sint-Jozefslaan 45, 2400 Mol"
-    }],
+    },
+                    {
+        "lat": 51.1949331,
+        "long": 4.7301932,
+        "name": "Bierhandel Willems en Zoon",
+        "url": "https://www.bierhandelwillems.be",
+        "address" : "Leopoldstraat 26, 2280 Grobbendonk"
+                    }],
     "Online" : [{
         "name": "Beer Vikings",
         "url": "https://beervikings.be/"
