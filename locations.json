@@ -186,6 +186,14 @@
       }
       ,
       {
+        "lat": 51.252579,
+        "long": 5.547770,
+        "name": "Beer Vikings",
+        "url": "https://www.beervikings.com/",
+        "address" : "Abdijstraat 2, 3930 Hamont-Achel"
+      }
+      ,
+      {
         "lat": 51.229400,
         "long": 5.312790,
         "name": "Café René",
