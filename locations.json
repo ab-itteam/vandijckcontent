@@ -223,6 +223,14 @@
         "url": "http://www.dranken-vertessen.be/",
         "address" : "Zuidstraat 198, 3581 Beverlo"
       }
+      ,
+      {
+        "lat": 51.128340,
+        "long": 5.802320,
+        "name": "Kuva Dranken",
+        "url": "https://www.kuvadranken.be/",
+        "address" : "Venlosesteenweg 115/Bus 1, 3640 Kinrooi"
+      }
     ]
   }
 }
