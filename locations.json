@@ -239,6 +239,14 @@
         "url": "https://www.kuvadranken.be/",
         "address" : "Venlosesteenweg 115/Bus 1, 3640 Kinrooi"
       }
+      ,
+      {
+        "lat": 51.230990,
+        "long": 5.307890,
+        "name": "Café De Bourgondiër",
+        "url": "https://www.facebook.com/cafedebourgondierlommel",
+        "address" : "Dorp 11, 3920 Lommel"
+      }
     ]
   }
 }
