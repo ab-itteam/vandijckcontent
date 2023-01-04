@@ -77,6 +77,12 @@
         "ourBeerSlijkvisser4_6" :  "Colour: Black",
         "ourBeerSlijkvisserRemark_6" :  "This is a seasonal beer and will only be available once in a year in the winter.",
 	
+        "ourBeerSlijkvisser1_7" : "Fuerte is the spanish word for strong and that is exactly how you can describe this beer.",
+        "ourBeerSlijkvisser2_7" :  "This is a barrel aged beer that has been for 9 months in rum barrels. The result is a beer of 14,5% with a tropical taste of the rum",
+        "ourBeerSlijkvisser3_7" :  "14.5% ABV",
+        "ourBeerSlijkvisser4_7" :  "Colour: Copper",
+        "ourBeerSlijkvisserRemark_7" : "This is a Limited Edition.",
+	
 	"ourBeerWhere": "Where to drink",
 	"ourStoryHero1": "The story",
 	"ourStoryHero2": "where it all began",
