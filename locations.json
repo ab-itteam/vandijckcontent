@@ -8,6 +8,13 @@
         "address" : "Sint-Jozefslaan 45, 2400 Mol"
     },
                     {
+         "lat": 51.252949,
+        "long": 4.812450,
+        "name": "Daems & Zoon",
+        "url": "https://drankenhandel-daems.be/",
+        "address" : "Wechelsebaan 145, 2275 Lille"
+    },
+                    {
         "lat": 51.1949331,
         "long": 4.7301932,
         "name": "Bierhandel Willems en Zoon",
