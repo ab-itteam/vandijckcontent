@@ -13,6 +13,13 @@
         "name": "Daems & Zoon",
         "url": "https://drankenhandel-daems.be/",
         "address" : "Wechelsebaan 145, 2275 Lille"
+                       },
+                    {
+         "lat": 51.470960,
+        "long": 5.048680,
+        "name": "De Bierschuur",
+        "url": "https://www.debierschuur.eu/",
+        "address" : "Grens 18, 2382 Ravels"
     },
                     {
         "lat": 51.1949331,
