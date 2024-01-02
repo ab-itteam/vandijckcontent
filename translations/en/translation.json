@@ -88,6 +88,11 @@
         "ourBeerSlijkvisser2_8" :  "*Blackout 2.0 Single Malt BA Donker: 13,9% and 12 months aged on Single Malt barrels of brewery Het Anker. The result is a dark beer with a fruity taste and with fragrances of wood and vanilla.",
         "ourBeerSlijkvisser3_8" :  "*Blackout 2.0 Single Malt BA Blond: 13,8% and 12 months aged on Single Malt barrels of brewery Het Anker. The result is a gold-yellow coloured beer with a slightly sweet taste and fragrances of wood and vanilla.",
         "ourBeerSlijkvisserRemark_8" : "This is a Limited Edition",
+
+	"ourBeerSlijkvisser1_9" : "In 2023 we released 2 new limited edition beers:",
+        "ourBeerSlijkvisser2_9" :  "*Taureau Blond Cognac BA: 13,9% and 12 months aged on Cognac barrels. The beer has a blond colour and a smooth alcoholic taste. Hints of honey and vanilla are represented in the beer.",
+        "ourBeerSlijkvisser3_9" :  "*Taureau Koper Cognac BA: 14,3% and 12 months aged on Cognac barrels. The beer has a coper colour and a smooth alcoholic taste. Hints of vanilla and wood are noticeable. ",
+        "ourBeerSlijkvisserRemark_9" : "This is a Limited Edition",
 	
 	"ourBeerWhere": "Where to drink",
 	"ourStoryHero1": "The story",
