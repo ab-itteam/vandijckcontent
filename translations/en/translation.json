@@ -82,6 +82,12 @@
         "ourBeerSlijkvisser3_7" :  "14.5% ABV",
         "ourBeerSlijkvisser4_7" :  "Colour: Copper",
         "ourBeerSlijkvisserRemark_7" : "This is a Limited Edition.",
+
+	
+	"ourBeerSlijkvisser1_8" : "In 2023 we released 2 new limited edition barrel aged beers:",
+        "ourBeerSlijkvisser2_8" :  "*Blackout 2.0 Single Malt BA Donker: 13,9% and 12 months aged on Single Malt barrels of brewery Het Anker. The result is a dark beer with a fruity taste and with fragrances of wood and vanilla.",
+        "ourBeerSlijkvisser3_8" :  "*Blackout 2.0 Single Malt BA Blond: 13,8% and 12 months aged on Single Malt barrels of brewery Het Anker. The result is a gold-yellow coloured beer with a slightly sweet taste and fragrances of wood and vanilla.",
+        "ourBeerSlijkvisserRemark_8" : "This is a Limited Edition",
 	
 	"ourBeerWhere": "Where to drink",
 	"ourStoryHero1": "The story",
