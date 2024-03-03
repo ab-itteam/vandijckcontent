@@ -234,14 +234,6 @@
       }
       ,
       {
-        "lat": 51.209960,
-        "long": 5.420500,
-        "name": "Bar DeLuux",
-        "url": "https://www.bardeluux.be/",
-        "address" : "Dorpsstraat 178, 3900 Overpelt"
-      }
-      ,
-      {
         "lat": 51.082200,
         "long": 5.197590,
         "name": "Dranken Vertessen",
@@ -255,6 +247,14 @@
         "name": "Kuva Dranken",
         "url": "https://www.kuvadranken.be/",
         "address" : "Venlosesteenweg 115/Bus 1, 3640 Kinrooi"
+       }
+      ,
+      {
+        "lat": 51.044220,
+        "long": 5.571300,
+        "name": "Drinxit Geerkens Oudsbergen",
+        "url": "https://www.facebook.com/drinxitgeerkens.oudsbergen",
+        "address" : "Ophovenbosstraat 44, 3660 Oudsbergen"
       }
       ,
       {
