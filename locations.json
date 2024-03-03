@@ -38,6 +38,10 @@
     "Online" : [{
         "name": "Beer Vikings",
         "url": "https://beervikings.be/"
+       },
+      {
+         "name": "Famous Belgian Beer",
+        "url": "https://fbbevents.be/"
     }],
     "Vlaams Brabant": [
       {
