@@ -20,6 +20,13 @@
         "name": "De Bierschuur",
         "url": "https://www.debierschuur.eu/",
         "address" : "Grens 18, 2382 Ravels"
+                      },
+                    {
+         "lat": 51.186880,
+        "long": 5.116450,
+        "name": "Panterland",
+        "url": "https://www.panterland.be/",
+        "address" : "Rondplein 19, 2400 Mol"
     },
                     {
         "lat": 51.1949331,
