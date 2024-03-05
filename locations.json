@@ -305,5 +305,20 @@
         "address" : "Dodenveldstraat 30, 3920 Lommel"
       }
     ]
-  }
+  },
+    "Netherlands": {
+     "Noord-Brabant" : [{
+         "lat": 51.3526448,
+        "long": 5.3836318,
+        "name": "Restaurant Vandeijck",
+        "url": "http://www.restaurantvandeijck.nl/",
+        "address" : "Dorpsplein 4, 5561 AV Riethoven, Netherlands"
+    },
+       {
+         "lat": 51.2868339,
+        "long": 5.3224794,
+        "name": "PLUS Van de Huijgevoort",
+        "url": "https://www.plus.nl/supermarkten/luyksgestel_plus-van-de-huijgevoort_911",
+        "address" : "Dorpstraat 65, 5575 AE Luyksgestel, Netherlands"
+    },
 }
