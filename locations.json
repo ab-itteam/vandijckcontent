@@ -1,324 +1,303 @@
 {
   "Belgium": {
-     "Antwerpen" : [{
-         "lat": 51.1949133,
+    "Antwerpen": [
+      {
+        "lat": 51.1949133,
         "long": 5.213592,
         "name": "Cafe De Kiezel",
         "url": "https://www.cafedekiezel.be/",
-        "address" : "Sint-Jozefslaan 45, 2400 Mol"
-    },
-                    {
-         "lat": 51.252949,
-        "long": 4.812450,
+        "address": "Sint-Jozefslaan 45, 2400 Mol"
+      },
+      {
+        "lat": 51.252949,
+        "long": 4.81245,
         "name": "Daems & Zoon",
         "url": "https://drankenhandel-daems.be/",
-        "address" : "Wechelsebaan 145, 2275 Lille"
-                       },
-                    {
-         "lat": 51.470960,
-        "long": 5.048680,
+        "address": "Wechelsebaan 145, 2275 Lille"
+      },
+      {
+        "lat": 51.47096,
+        "long": 5.04868,
         "name": "De Bierschuur",
         "url": "https://www.debierschuur.eu/",
-        "address" : "Grens 18, 2382 Ravels"
-                      },
-                    {
-         "lat": 51.186880,
-        "long": 5.116450,
+        "address": "Grens 18, 2382 Ravels"
+      },
+      {
+        "lat": 51.18688,
+        "long": 5.11645,
         "name": "Panterland",
         "url": "https://www.panterland.be/",
-        "address" : "Rondplein 19, 2400 Mol"
-    },
-                    {
+        "address": "Rondplein 19, 2400 Mol"
+      },
+      {
         "lat": 51.1949331,
         "long": 4.7301932,
         "name": "Bierhandel Willems en Zoon",
         "url": "https://www.bierhandelwillems.be",
-        "address" : "Leopoldstraat 26, 2280 Grobbendonk"
-                    }],
-    "Online" : [{
+        "address": "Leopoldstraat 26, 2280 Grobbendonk"
+      }
+    ],
+    "Online": [
+      {
         "name": "Beer Vikings",
         "url": "https://beervikings.be/"
-       },
+      },
       {
-         "name": "Famous Belgian Beer",
+        "name": "Famous Belgian Beer",
         "url": "https://fbbevents.be/"
-    }],
+      }
+    ],
     "Vlaams Brabant": [
       {
         "lat": 50.8780204,
         "long": 4.7037355,
         "name": "Belgian Beer Shop",
         "url": "https://www.bestbeersfrombelgium.eu",
-        "address" : "Tiensestraat 31, 3000 Leuven, Belgium"
+        "address": "Tiensestraat 31, 3000 Leuven, Belgium"
       }
     ],
     "Limburg": [
-         {
+      {
         "lat": 51.0602513,
         "long": 5.1659807,
         "name": "Dranken Gijbels",
         "url": "https://www.prikentik.be/winkels/paal-dranken-gijbels",
-        "address" : "Schoebroekstraat 63, 3583 Beringen, Belgium"
+        "address": "Schoebroekstraat 63, 3583 Beringen, Belgium"
       },
       {
         "lat": 51.2397461,
         "long": 5.3374471,
         "name": "Famous Belgian Beer Shop",
         "url": "https://fbbevents.be/",
-        "address" : "Slinkerstraat 26, 3920 Lommel"
+        "address": "Slinkerstraat 26, 3920 Lommel"
       },
       {
         "lat": 51.2303375,
         "long": 5.3081974,
         "name": "BaZiel",
         "url": "https://www.belevingsbar-baziel.be/",
-        "address" : "Dorp 40a, 3920 Lommel"
+        "address": "Dorp 40a, 3920 Lommel"
       },
       {
         "lat": 51.2385771,
         "long": 5.3772806,
         "name": "Den Brugwachter",
         "url": "https://www.denbrugwachter.be/",
-        "address" : "Luikersteenweg 283, 3920 Lommel"
-      }
-      ,
+        "address": "Luikersteenweg 283, 3920 Lommel"
+      },
       {
-        "lat": 51.253030,
-        "long": 5.333100,
+        "lat": 51.25303,
+        "long": 5.3331,
         "name": "De Elze",
         "url": "http://www.de-elze.be/",
-        "address" : "Elzen 49, 3920 Lommel"
-      }
-      ,
+        "address": "Elzen 49, 3920 Lommel"
+      },
       {
-        "lat": 51.231350,
-        "long": 5.335910,
+        "lat": 51.23135,
+        "long": 5.33591,
         "name": "Bierhandel Sevens",
         "url": "https://www.bierhandelsevens.be/",
-        "address" : "Lutlommel 42, 3920 Lommel"
-      }
-      ,
+        "address": "Lutlommel 42, 3920 Lommel"
+      },
       {
-        "lat": 51.230450,
-        "long": 5.309780,
+        "lat": 51.23045,
+        "long": 5.30978,
         "name": "Restaurant Diana",
         "url": "https://www.restaurantdiana.be/",
-        "address" : "Kerkstraat 2, 3920 Lommel"
-      }
-      ,
+        "address": "Kerkstraat 2, 3920 Lommel"
+      },
       {
-        "lat": 51.230800,
-        "long": 5.308080,
+        "lat": 51.2308,
+        "long": 5.30808,
         "name": "Toerisme Lommel",
         "url": "https://www.lommel.be/dienst/2063/toerisme-lommel/",
-        "address" : "Dorp 14, 3920 Lommel"
-        }
-      ,
+        "address": "Dorp 14, 3920 Lommel"
+      },
       {
-        "lat": 50.994840,
-        "long": 5.338650,
+        "lat": 50.99484,
+        "long": 5.33865,
         "name": "Marlou",
         "url": "https://www.marlou.be/",
-        "address" : "Heikensstraat 11, 3520 Zonhoven"
-      }
-       ,
+        "address": "Heikensstraat 11, 3520 Zonhoven"
+      },
       {
-        "lat": 51.133010,
-        "long": 5.449920,
+        "lat": 51.13301,
+        "long": 5.44992,
         "name": "Rozemarijn Dranken",
         "url": "https://www.rozemarijn-peer.be/",
-        "address" : "Steenweg Wijchmaal 2, 3990 Peer"
-      }
-       ,
+        "address": "Steenweg Wijchmaal 2, 3990 Peer"
+      },
       {
         "lat": 51.231339,
-        "long": 5.340010,
+        "long": 5.34001,
         "name": "'t Kafeeke",
         "url": "https://www.tkafeeke.be/",
-        "address" : "Lutlommel 90, 3920 Lommel"
-      }
-       ,
+        "address": "Lutlommel 90, 3920 Lommel"
+      },
       {
-        "lat": 51.125870,
-        "long": 5.256060,
+        "lat": 51.12587,
+        "long": 5.25606,
         "name": "Prik & Tik Leopoldsburg",
         "url": "https://www.prikentikleopoldsburg.be/",
-        "address" : "Lommelsesteenweg 23, 3970 Leopoldsburg"
-      }
-      ,
+        "address": "Lommelsesteenweg 23, 3970 Leopoldsburg"
+      },
       {
-        "lat": 51.230450,
-        "long": 5.308870,
+        "lat": 51.23045,
+        "long": 5.30887,
         "name": "Melchior",
         "url": "https://website-5767826193689280303230-cafe.business.site/",
-        "address" : "Dorp 35, 3920 Lommel"
-      }
-      ,
+        "address": "Dorp 35, 3920 Lommel"
+      },
       {
-        "lat": 51.231850,
-        "long": 5.305400,
+        "lat": 51.23185,
+        "long": 5.3054,
         "name": "Eetcafe D'n Timmer",
         "url": "http://www.eetcafedntimmer.be/",
-        "address" : "Gasstraat 15, 3920 Lommel"
-      }
-      ,
+        "address": "Gasstraat 15, 3920 Lommel"
+      },
       {
-        "lat": 51.263850,
-        "long": 5.344650,
+        "lat": 51.26385,
+        "long": 5.34465,
         "name": "De Weteringshoeve",
         "url": "https://www.deweteringshoeve.be/",
-        "address" : "In de Hutten 10, 3920 Lommel"
-      }
-      ,
+        "address": "In de Hutten 10, 3920 Lommel"
+      },
       {
-        "lat": 51.228080,
-        "long": 5.315640,
+        "lat": 51.22808,
+        "long": 5.31564,
         "name": "Bar-a-bass",
         "url": "https://www.facebook.com/BaraBassCafe/",
-        "address" : "Koning Leopoldlaan 3, 3920 Lommel"
-      }
-      ,
+        "address": "Koning Leopoldlaan 3, 3920 Lommel"
+      },
       {
-        "lat": 51.250900,
-        "long": 5.312130,
+        "lat": 51.2509,
+        "long": 5.31213,
         "name": "'t Wilgenhuys",
         "url": "https://www.wilgenhuys.be/",
-        "address" : "Jacob Smitsdreef 2, 3920 Lommel"
-      }
-      ,
+        "address": "Jacob Smitsdreef 2, 3920 Lommel"
+      },
       {
-        "lat": 51.226230,
-        "long": 5.314900,
+        "lat": 51.22623,
+        "long": 5.3149,
         "name": "Vill'Artistiek",
         "url": "https://www.facebook.com/villartistiek/",
-        "address" : "Stationsstraat 27, 3920 Lommel"
-      }
-      ,
+        "address": "Stationsstraat 27, 3920 Lommel"
+      },
       {
-        "lat": 51.129680,
-        "long": 5.458400,
+        "lat": 51.12968,
+        "long": 5.4584,
         "name": "The Other Side",
         "url": "https://www.facebook.com/toslive/",
-        "address" : "Burkel 10, 3990 Peer"
-      }
-      ,
+        "address": "Burkel 10, 3990 Peer"
+      },
       {
         "lat": 51.252579,
-        "long": 5.547770,
+        "long": 5.54777,
         "name": "Beer Vikings",
         "url": "https://www.beervikings.com/",
-        "address" : "Abdijstraat 2, 3930 Hamont-Achel"
-      }
-      ,
+        "address": "Abdijstraat 2, 3930 Hamont-Achel"
+      },
       {
-        "lat": 51.229400,
-        "long": 5.312790,
+        "lat": 51.2294,
+        "long": 5.31279,
         "name": "Café René",
-        "address" : "Kerkstraat 53, 3920 Lommel"
-      }
-      ,
+        "address": "Kerkstraat 53, 3920 Lommel"
+      },
       {
-        "lat": 51.228210,
-        "long": 5.282350,
+        "lat": 51.22821,
+        "long": 5.28235,
         "name": "'t Heeske",
         "url": "https://menucards.cc/THeeskeVzw",
-        "address" : "Jan Frans Willemsstraat 79, 3920 Lommel"
-      }
-      ,
+        "address": "Jan Frans Willemsstraat 79, 3920 Lommel"
+      },
       {
-        "lat": 51.231110,
-        "long": 5.319930,
+        "lat": 51.23111,
+        "long": 5.31993,
         "name": "Prik & Tik Lommel",
         "url": "https://www.prikentik.be/winkels/lommel-prik-tik-lommel",
-        "address" : "Kloosterstraat 71, 3920 Lommel"
-      }
-      ,
+        "address": "Kloosterstraat 71, 3920 Lommel"
+      },
       {
-        "lat": 51.082200,
-        "long": 5.197590,
+        "lat": 51.0822,
+        "long": 5.19759,
         "name": "Dranken Vertessen",
         "url": "http://www.dranken-vertessen.be/",
-        "address" : "Zuidstraat 198, 3581 Beverlo"
-      }
-      ,
+        "address": "Zuidstraat 198, 3581 Beverlo"
+      },
       {
-        "lat": 51.128340,
-        "long": 5.802320,
+        "lat": 51.12834,
+        "long": 5.80232,
         "name": "Kuva Dranken",
         "url": "https://www.kuvadranken.be/",
-        "address" : "Venlosesteenweg 115/Bus 1, 3640 Kinrooi"
-       }
-      ,
+        "address": "Venlosesteenweg 115/Bus 1, 3640 Kinrooi"
+      },
       {
-        "lat": 51.044220,
-        "long": 5.571300,
+        "lat": 51.04422,
+        "long": 5.5713,
         "name": "Drinxit Geerkens Oudsbergen",
         "url": "https://www.facebook.com/drinxitgeerkens.oudsbergen",
-        "address" : "Ophovenbosstraat 44, 3660 Oudsbergen"
-      }
-      ,
+        "address": "Ophovenbosstraat 44, 3660 Oudsbergen"
+      },
       {
-        "lat": 51.230990,
-        "long": 5.307890,
+        "lat": 51.23099,
+        "long": 5.30789,
         "name": "Café De Bourgondiër",
         "url": "https://www.facebook.com/cafedebourgondierlommel",
-        "address" : "Dorp 11, 3920 Lommel"
-      }
-      ,
+        "address": "Dorp 11, 3920 Lommel"
+      },
       {
-        "lat": 51.211700,
-        "long": 5.312330,
+        "lat": 51.2117,
+        "long": 5.31233,
         "name": "'T Station Lommel",
         "url": "https://www.facebook.com/profile.php?id=100057116243428",
-        "address" : "Stationsstraat 278, 3920 Lommel"
-      }
-      ,
+        "address": "Stationsstraat 278, 3920 Lommel"
+      },
       {
         "lat": 51.164162,
-        "long": 5.269440,
+        "long": 5.26944,
         "name": "Café Sin",
         "url": "https://www.visitlimburg.be/nl/wat-te-doen/cafe-sin",
-        "address" : "Kerkhovensesteenweg 372, 3920 Lommel"
-      }
-      ,
+        "address": "Kerkhovensesteenweg 372, 3920 Lommel"
+      },
       {
-        "lat": 51.231120,
-        "long": 5.310040,
+        "lat": 51.23112,
+        "long": 5.31004,
         "name": "'t Onderwerp",
         "url": "https://www.onderwerplommel.be/",
-        "address" : "Lepelstraat 8, 3920 Lommel"
-        }
-      ,
+        "address": "Lepelstraat 8, 3920 Lommel"
+      },
       {
-        "lat": 51.232690,
-        "long": 5.351430,
+        "lat": 51.23269,
+        "long": 5.35143,
         "name": "Spar Lommel",
         "url": "https://www.mijnspar.be/winkels/spar-lommel",
-        "address" : "Lutlommel 169, 3920 Lommel"
-      }
-      ,
+        "address": "Lutlommel 169, 3920 Lommel"
+      },
       {
-        "lat": 51.190680,
-        "long": 5.305090,
+        "lat": 51.19068,
+        "long": 5.30509,
         "name": "Hof ten Vrede",
         "url": "https://www.pemaro.be/",
-        "address" : "Dodenveldstraat 30, 3920 Lommel"
+        "address": "Dodenveldstraat 30, 3920 Lommel"
       }
     ]
   },
-    "Netherlands": {
-     "Noord-Brabant" : [{
-         "lat": 51.3526448,
+  "Netherlands": {
+    "Noord-Brabant": [
+      {
+        "lat": 51.3526448,
         "long": 5.3836318,
         "name": "Restaurant Vandeijck",
         "url": "http://www.restaurantvandeijck.nl/",
-        "address" : "Dorpsplein 4, 5561 AV Riethoven, Netherlands"
-    },
-       {
-         "lat": 51.2868339,
+        "address": "Dorpsplein 4, 5561 AV Riethoven, Netherlands"
+      },
+      {
+        "lat": 51.2868339,
         "long": 5.3224794,
         "name": "PLUS Van de Huijgevoort",
         "url": "https://www.plus.nl/supermarkten/luyksgestel_plus-van-de-huijgevoort_911",
-        "address" : "Dorpstraat 65, 5575 AE Luyksgestel, Netherlands"
-    },
+        "address": "Dorpstraat 65, 5575 AE Luyksgestel, Netherlands"
+      }
+    ]
+  }
 }
