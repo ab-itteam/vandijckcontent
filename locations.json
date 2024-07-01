@@ -272,6 +272,13 @@
         "name": "Spar Lommel",
         "url": "https://www.mijnspar.be/winkels/spar-lommel",
         "address": "Lutlommel 169, 3920 Lommel"
+         },
+      {
+        "lat": 51.228830,
+        "long": 5.322510,
+        "name": "Jumbo Lommel",
+        "url": "https://www.jumbo.com/nl-be",
+        "address": "Koning Leopoldlaan 66, 3920 Lommel"
       },
       {
         "lat": 51.19068,
