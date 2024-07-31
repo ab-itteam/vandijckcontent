@@ -47,15 +47,6 @@
         "url": "https://fbbevents.be/"
       }
     ],
-    "Vlaams Brabant": [
-      {
-        "lat": 50.8780204,
-        "long": 4.7037355,
-        "name": "Belgian Beer Shop",
-        "url": "https://www.bestbeersfrombelgium.eu",
-        "address": "Tiensestraat 31, 3000 Leuven, Belgium"
-      }
-    ],
     "Limburg": [
       {
         "lat": 51.0602513,
@@ -286,6 +277,20 @@
         "name": "Hof ten Vrede",
         "url": "https://www.pemaro.be/",
         "address": "Dodenveldstraat 30, 3920 Lommel"
+        },
+      {
+        "lat": 51.231130,
+        "long": 5.336700,
+        "name": "Het Brouwershuis",
+        "url": "https://www.facebook.com/cafebrouwershuislommel/?locale=nl_NL",
+        "address": "Lutlommel 64, 3920 Lommel"
+        },
+      {
+        "lat": 51.226990,
+        "long": 5.430750,
+        "name": "Delhaize Neerpelt",
+        "url": "https://stores.delhaize.be/nl/delhaize-neerpelt",
+        "address": "Kempenplein 1, 3910 Pelt"
         },
       {
         "lat": 51.216940,
