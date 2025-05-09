@@ -283,6 +283,13 @@
         "address": "Kempenplein 1, 3910 Pelt"
         },
       {
+        "lat": 51.215101,
+        "long": 5.236139,
+        "name": "café de Withoef",
+        "url": "https://www.dewithoef.be/",
+        "address": "Katoenstraat 4, 3920 Lommel"
+        },      
+      {
         "lat": 51.216940,
         "long": 5.312280,
         "name": "Bowling Antares",
