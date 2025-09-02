@@ -1,5 +1,13 @@
 {
   "Belgium": {
+    "West-Vlaanderen": [{
+        "lat": 50.82734890506603,
+        "long": 2.8539382441832912,
+        "name": "Dranken tommelin",
+        "url": "https://www.drankentommelin.be",
+        "address": "Dikkebusseweg 308, 8908 Ieper, Belgium"
+      },
+    ]
     "Antwerpen": [
       {
         "lat": 51.1949133,
