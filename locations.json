@@ -1,13 +1,14 @@
 {
   "Belgium": {
-    "West-Vlaanderen": [{
+    "West-Vlaanderen": [
+      {
         "lat": 50.82734890506603,
         "long": 2.8539382441832912,
         "name": "Dranken tommelin",
         "url": "https://www.drankentommelin.be",
         "address": "Dikkebusseweg 308, 8908 Ieper, Belgium"
       }
-    ]
+    ],
     "Antwerpen": [
       {
         "lat": 51.1949133,
@@ -51,7 +52,7 @@
         "url": "https://beervikings.be/"
       },
       {
-         "name": "Bierwebshop.be",
+        "name": "Bierwebshop.be",
         "url": "https://www.bierwebshop.be/"
       },
       {
@@ -275,45 +276,45 @@
         "name": "Spar Lommel",
         "url": "https://www.mijnspar.be/winkels/spar-lommel",
         "address": "Lutlommel 169, 3920 Lommel"
-         },
+      },
       {
         "lat": 51.19068,
         "long": 5.30509,
         "name": "Hof ten Vrede",
         "url": "https://www.pemaro.be/",
         "address": "Dodenveldstraat 30, 3920 Lommel"
-        },
+      },
       {
-        "lat": 51.231130,
-        "long": 5.336700,
+        "lat": 51.23113,
+        "long": 5.3367,
         "name": "Het Brouwershuis",
         "url": "https://www.facebook.com/cafebrouwershuislommel/?locale=nl_NL",
         "address": "Lutlommel 64, 3920 Lommel"
-        },
+      },
       {
-        "lat": 51.226990,
-        "long": 5.430750,
+        "lat": 51.22699,
+        "long": 5.43075,
         "name": "Delhaize Neerpelt",
         "url": "https://stores.delhaize.be/nl/delhaize-neerpelt",
         "address": "Kempenplein 1, 3910 Pelt"
-        },
+      },
       {
         "lat": 51.215101,
         "long": 5.236139,
         "name": "café de Withoef",
         "url": "https://www.dewithoef.be/",
         "address": "Katoenstraat 4, 3920 Lommel"
-        },      
-       {
+      },
+      {
         "lat": 51.244766,
         "long": 5.335733,
         "name": "Cafe Heuvelhof",
         "url": "https://www.facebook.com/profile.php?id=61574919519860",
         "address": "Slinkerstraat 58, 3920 Lommel"
-        },      
+      },
       {
-        "lat": 51.216940,
-        "long": 5.312280,
+        "lat": 51.21694,
+        "long": 5.31228,
         "name": "Bowling Antares",
         "url": "https://www.bowlingantares.be/",
         "address": "Vreyshorring 212, 3920 Lommel"
