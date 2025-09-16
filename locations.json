@@ -32,6 +32,13 @@
         "address": "Grens 18, 2382 Ravels"
       },
       {
+        "lat": 51.473130,
+        "long": 4.722229,
+        "name": "Bierparadijs (Prik & Tik)",
+        "url": "https://www.bier-paradijs.be/",
+        "address": "Wenenstraat 9, 2321 Hoogstraten"
+      },
+      {
         "lat": 51.18688,
         "long": 5.11645,
         "name": "Panterland",
