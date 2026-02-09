@@ -320,6 +320,15 @@
         "address": "Witte Torenstraat 43, 3960 Bree"
       },
       {
+         },
+       {
+        "lat": 51.229191,
+        "long": 5.313430,
+        "name": "Lunchroom Vivaldi",
+        "url": "https://lunchroomvivaldi.be/",
+        "address": "Kerkstraat 59/W5, 3920 Lommel"
+      },
+      {
         "lat": 51.21694,
         "long": 5.31228,
         "name": "Bowling Antares",
