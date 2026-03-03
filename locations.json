@@ -347,6 +347,13 @@
         "address": "Dorpsplein 4, 5561 AV Riethoven, Netherlands"
       },
       {
+        "lat": 51.435593,
+        "long": 5.483343,
+        "name": "Belgisch Biercafe Eindhoven",
+        "url": "https://www.belgischbiercafe-eindhoven.nl/",
+        "address": " Stratumseind 95, 5611 ER Eindhoven, Nederland"
+      },
+      {
         "lat": 51.2868339,
         "long": 5.3224794,
         "name": "PLUS Van de Huijgevoort",
